@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="104" viewBox="0 0 120 104" role="img" aria-label="Chroma">
+<style>.card{fill:#f8fafc;stroke:#dce4ed}.label{fill:#243449}@media(prefers-color-scheme:dark){.card{fill:#111c2d;stroke:#2b3a50}.label{fill:#dce6f3}}</style>
+<rect class="card" x="0.5" y="0.5" width="119" height="103" rx="16"/>
+<rect x="33" y="13" width="54" height="54" rx="12" fill="#f3f6fa"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" id="Chroma--Streamline-Svg-Logos" height="46" width="46" x="37" y="17">
+  <desc>
+    Chroma Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="#ffde2d" d="M15.916575 19.52c4.326225 0 7.833325 -3.3668 7.833325 -7.519975 0 -4.153175 -3.5071 -7.519975 -7.833325 -7.519975 -4.326225 0 -7.833325 3.3668 -7.833325 7.519975 0 4.153175 3.5071 7.519975 7.833325 7.519975Z" stroke-width="0.25" />
+  <path fill="#327eff" d="M8.083325 19.52c4.326225 0 7.833325 -3.3668 7.833325 -7.519975 0 -4.153175 -3.5071 -7.519975 -7.833325 -7.519975C3.7571 4.48005 0.25 7.84685 0.25 12.000025 0.25 16.1532 3.7571 19.52 8.083325 19.52Z" stroke-width="0.25" />
+  <path fill="#ff6446" d="M15.916625 12.000025c0 4.1532 -3.507125 7.519925 -7.833375 7.519925V12.000025h7.833375Zm-7.833375 0c0 -4.153175 3.5071 -7.519975 7.833375 -7.519975v7.519975H8.08325Z" stroke-width="0.25" />
+</svg>
+<text class="label" x="60" y="86" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" font-weight="600">Chroma</text>
+</svg>

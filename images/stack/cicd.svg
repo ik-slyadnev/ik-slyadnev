@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="104" viewBox="0 0 120 104" role="img" aria-label="CI/CD">
+<style>.card{fill:#f8fafc;stroke:#dce4ed}.label{fill:#243449}@media(prefers-color-scheme:dark){.card{fill:#111c2d;stroke:#2b3a50}.label{fill:#dce6f3}}</style>
+<rect class="card" x="0.5" y="0.5" width="119" height="103" rx="16"/>
+<rect x="33" y="13" width="54" height="54" rx="12" fill="#f3f6fa"/>
+<g transform="translate(36 16) scale(2)" fill="none" stroke="#7c3aed" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12c-3-8-10-7-10 0s7 8 10 0 10-7 10 0-7 8-10 0Z"/></g>
+<text class="label" x="60" y="86" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" font-weight="600">CI/CD</text>
+</svg>

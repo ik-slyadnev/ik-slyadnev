@@ -22,3 +22,21 @@
 - [jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg)
 - [apachekafka](https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg)
 - [rabbitmq](https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg)
+
+## Дополнительные логотипы
+
+- [LiteLLM](https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/litellm_monogram.svg)
+- [Chroma](https://raw.githubusercontent.com/chroma-core/chroma/main/docs/mintlify/images/favicon.svg)
+- [DeepEval](https://raw.githubusercontent.com/confident-ai/deepeval/main/docs/public/icons/deepeval-icon.svg)
+- [Ragas](https://raw.githubusercontent.com/vibrantlabsai/ragas/main/docs/_static/imgs/ragas-logo.png)
+- [Langfuse](https://raw.githubusercontent.com/langfuse/langfuse/main/web/public/icon.svg)
+- [HTTPX](https://raw.githubusercontent.com/encode/httpx/master/docs/img/logo.jpg)
+- [Requests](https://raw.githubusercontent.com/psf/requests/main/docs/_static/requests-sidebar.png)
+- [GraphQL](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/graphql.svg)
+- [gRPC](https://raw.githubusercontent.com/grpc/grpc.io/main/static/img/logos/grpc-icon-color.png)
+- [Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+- [Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)
+- [GitLab CI](https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg)
+- Allure: ранее сохранённый логотип из `images/logo/c79ab1cf937ba73a952a0a02a11e9469.svg`
+
+Пиктограммы asyncio, REST API, LLM-as-a-Judge, AI Agents, Tool Calling, CI/CD и SQL нарисованы для этой страницы и обозначают общие понятия
