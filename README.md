@@ -1,7 +1,7 @@
 # Илья Сляднев
 
 <p align="center">
-  <img src="images/ai-workspace.png" width="440" alt="Иллюстрация: разработчик за ноутбуком с символами AI и технологий">
+  <img src="images/ai-workspace.png" width="100%" alt="Иллюстрация: разработчик за ноутбуком с символами AI и технологий">
 </p>
 
 ## Python & AI
@@ -15,61 +15,61 @@
 ## Языки и автоматизация
 
 <p>
-  <img src="images/stack/python.svg" width="116" height="101" alt="Python">
-  <img src="images/stack/javascript.svg" width="116" height="101" alt="JavaScript">
-  <img src="images/stack/pytest.svg" width="116" height="101" alt="Pytest">
-  <img src="images/stack/pytest-xdist.svg" width="116" height="101" alt="pytest-xdist">
-  <img src="images/stack/playwright.svg" width="116" height="101" alt="Playwright">
-  <img src="images/stack/selenium.svg" width="116" height="101" alt="Selenium">
-  <img src="images/stack/pydantic.svg" width="116" height="101" alt="Pydantic">
-  <img src="images/stack/locust.svg" width="116" height="101" alt="Locust">
-  <img src="images/stack/httpx.svg" width="116" height="101" alt="HTTPX">
-  <img src="images/stack/requests.svg" width="116" height="101" alt="Requests">
-  <img src="images/stack/asyncio.svg" width="116" height="101" alt="asyncio">
-  <img src="images/stack/rest-api.svg" width="116" height="101" alt="REST API">
-  <img src="images/stack/graphql.svg" width="116" height="101" alt="GraphQL">
-  <img src="images/stack/grpc.svg" width="116" height="101" alt="gRPC">
+  <img src="images/stack/python.svg" width="96" height="83" alt="Python">
+  <img src="images/stack/javascript.svg" width="96" height="83" alt="JavaScript">
+  <img src="images/stack/pytest.svg" width="96" height="83" alt="Pytest">
+  <img src="images/stack/pytest-xdist.svg" width="96" height="83" alt="pytest-xdist">
+  <img src="images/stack/playwright.svg" width="96" height="83" alt="Playwright">
+  <img src="images/stack/selenium.svg" width="96" height="83" alt="Selenium">
+  <img src="images/stack/pydantic.svg" width="96" height="83" alt="Pydantic">
+  <img src="images/stack/locust.svg" width="96" height="83" alt="Locust">
+  <img src="images/stack/httpx.svg" width="96" height="83" alt="HTTPX">
+  <img src="images/stack/requests.svg" width="96" height="83" alt="Requests">
+  <img src="images/stack/asyncio.svg" width="96" height="83" alt="asyncio">
+  <img src="images/stack/rest-api.svg" width="96" height="83" alt="REST API">
+  <img src="images/stack/graphql.svg" width="96" height="83" alt="GraphQL">
+  <img src="images/stack/grpc.svg" width="96" height="83" alt="gRPC">
 </p>
 
 ## AI, RAG и evaluation
 
 <p>
-  <img src="images/stack/langchain.svg" width="116" height="101" alt="LangChain">
-  <img src="images/stack/langgraph.svg" width="116" height="101" alt="LangGraph">
-  <img src="images/stack/qdrant.svg" width="116" height="101" alt="Qdrant">
-  <img src="images/stack/huggingface.svg" width="116" height="101" alt="Hugging Face">
-  <img src="images/stack/ollama.svg" width="116" height="101" alt="Ollama">
-  <img src="images/stack/modelcontextprotocol.svg" width="116" height="101" alt="MCP">
-  <img src="images/stack/litellm.svg" width="116" height="101" alt="LiteLLM">
-  <img src="images/stack/chroma.svg" width="116" height="101" alt="Chroma">
-  <img src="images/stack/openai.svg" width="116" height="101" alt="OpenAI API">
-  <img src="images/stack/faiss.svg" width="116" height="101" alt="FAISS">
-  <img src="images/stack/deepeval.svg" width="116" height="101" alt="DeepEval">
-  <img src="images/stack/ragas.svg" width="116" height="101" alt="Ragas">
-  <img src="images/stack/langfuse.svg" width="116" height="101" alt="Langfuse">
-  <img src="images/stack/llm-judge.svg" width="116" height="101" alt="LLM-as-a-Judge">
-  <img src="images/stack/ai-agents.svg" width="116" height="101" alt="AI Agents">
-  <img src="images/stack/tool-calling.svg" width="116" height="101" alt="Tool Calling">
+  <img src="images/stack/langchain.svg" width="96" height="83" alt="LangChain">
+  <img src="images/stack/langgraph.svg" width="96" height="83" alt="LangGraph">
+  <img src="images/stack/qdrant.svg" width="96" height="83" alt="Qdrant">
+  <img src="images/stack/huggingface.svg" width="96" height="83" alt="Hugging Face">
+  <img src="images/stack/ollama.svg" width="96" height="83" alt="Ollama">
+  <img src="images/stack/modelcontextprotocol.svg" width="96" height="83" alt="MCP">
+  <img src="images/stack/litellm.svg" width="96" height="83" alt="LiteLLM">
+  <img src="images/stack/chroma.svg" width="96" height="83" alt="Chroma">
+  <img src="images/stack/openai.svg" width="96" height="83" alt="OpenAI API">
+  <img src="images/stack/faiss.svg" width="96" height="83" alt="FAISS">
+  <img src="images/stack/deepeval.svg" width="96" height="83" alt="DeepEval">
+  <img src="images/stack/ragas.svg" width="96" height="83" alt="Ragas">
+  <img src="images/stack/langfuse.svg" width="96" height="83" alt="Langfuse">
+  <img src="images/stack/llm-judge.svg" width="96" height="83" alt="LLM-as-a-Judge">
+  <img src="images/stack/ai-agents.svg" width="96" height="83" alt="AI Agents">
+  <img src="images/stack/tool-calling.svg" width="96" height="83" alt="Tool Calling">
 </p>
 
 ## Инфраструктура
 
 <p>
-  <img src="images/stack/docker.svg" width="116" height="101" alt="Docker">
-  <img src="images/stack/kubernetes.svg" width="116" height="101" alt="Kubernetes">
-  <img src="images/stack/jenkins.svg" width="116" height="101" alt="Jenkins">
-  <img src="images/stack/postgresql.svg" width="116" height="101" alt="PostgreSQL">
-  <img src="images/stack/oracle.svg" width="116" height="101" alt="Oracle">
-  <img src="images/stack/apachekafka.svg" width="116" height="101" alt="Kafka">
-  <img src="images/stack/rabbitmq.svg" width="116" height="101" alt="RabbitMQ">
-  <img src="images/stack/linux.svg" width="116" height="101" alt="Linux">
-  <img src="images/stack/bash.svg" width="116" height="101" alt="Bash">
-  <img src="images/stack/gitlab.svg" width="116" height="101" alt="GitLab CI">
-  <img src="images/stack/cicd.svg" width="116" height="101" alt="CI/CD">
-  <img src="images/stack/allure.svg" width="116" height="101" alt="Allure">
-  <img src="images/stack/sql.svg" width="116" height="101" alt="SQL">
-  <img src="images/stack/jira.svg" width="116" height="101" alt="Jira">
-  <img src="images/stack/zephyr.svg" width="116" height="101" alt="Zephyr">
+  <img src="images/stack/docker.svg" width="96" height="83" alt="Docker">
+  <img src="images/stack/kubernetes.svg" width="96" height="83" alt="Kubernetes">
+  <img src="images/stack/jenkins.svg" width="96" height="83" alt="Jenkins">
+  <img src="images/stack/postgresql.svg" width="96" height="83" alt="PostgreSQL">
+  <img src="images/stack/oracle.svg" width="96" height="83" alt="Oracle">
+  <img src="images/stack/apachekafka.svg" width="96" height="83" alt="Kafka">
+  <img src="images/stack/rabbitmq.svg" width="96" height="83" alt="RabbitMQ">
+  <img src="images/stack/linux.svg" width="96" height="83" alt="Linux">
+  <img src="images/stack/bash.svg" width="96" height="83" alt="Bash">
+  <img src="images/stack/gitlab.svg" width="96" height="83" alt="GitLab CI">
+  <img src="images/stack/cicd.svg" width="96" height="83" alt="CI/CD">
+  <img src="images/stack/allure.svg" width="96" height="83" alt="Allure">
+  <img src="images/stack/sql.svg" width="96" height="83" alt="SQL">
+  <img src="images/stack/jira.svg" width="96" height="83" alt="Jira">
+  <img src="images/stack/zephyr.svg" width="96" height="83" alt="Zephyr">
 </p>
 
 ## Исследования
