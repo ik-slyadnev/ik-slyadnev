@@ -8,7 +8,7 @@
 
 **QA Automation Engineer** · Python · AI Evaluation
 
-В этом GitHub собраны мои бенчмарки моделей, отчёты о coding-агентах и учебные стенды для QA
+В этом GitHub собраны мои бенчмарки моделей и отчёты о coding-агентах
 
 [Telegram](https://t.me/ilia_sliadnev) · [LinkedIn](https://www.linkedin.com/in/ilya-sliadnev/) · [GitVerse](https://gitverse.ru/nogamenolife)
 
@@ -57,9 +57,3 @@ Linux · Bash · GitLab CI · CI/CD · Allure · SQL
 | [Ru Embeddings Benchmark](https://github.com/ik-slyadnev/ru-embeddings-benchmark) | Поиск кода по вопросам на русском: 63 конфигурации embedding-моделей и BM25 |
 | [Ru Reranker Benchmark](https://github.com/ik-slyadnev/ru-reranker-benchmark) | Сравнение 23 reranker-моделей для поиска кода |
 | [Aider Polyglot](https://ik-slyadnev.github.io/aider-polyglot-harness-benchmark/) | Интерактивный отчёт: CLI-агенты, качество решений и расход токенов |
-
-## Учебные стенды
-
-[Apache Kafka для QA](https://github.com/ik-slyadnev/kafka_example) · [RabbitMQ для QA](https://github.com/ik-slyadnev/rabbit_mq_example)
-
-Python, Docker Compose и сценарии для практики с брокерами сообщений
