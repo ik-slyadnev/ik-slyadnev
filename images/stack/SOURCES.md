@@ -40,3 +40,14 @@
 - Allure: ранее сохранённый логотип из `images/logo/c79ab1cf937ba73a952a0a02a11e9469.svg`
 
 Пиктограммы asyncio, REST API, LLM-as-a-Judge, AI Agents, Tool Calling, CI/CD и SQL нарисованы для этой страницы и обозначают общие понятия
+
+## Другие инструменты
+
+- [jira](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg)
+- [oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)
+- [go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
+- [javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- [OpenAI: Lobe Icons](https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/openai.svg), лицензия MIT
+- [Locust: знак из официального интерфейса](https://github.com/locustio/locust/blob/master/locust/webui/src/assets/Logo.tsx)
+
+FAISS, pytest-xdist и Zephyr представлены тематическими пиктограммами, нарисованными для этой страницы

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="104" viewBox="0 0 120 104" role="img" aria-label="Zephyr">
+<style>.card{fill:#f8fafc;stroke:#dce4ed}.label{fill:#243449}@media(prefers-color-scheme:dark){.card{fill:#111c2d;stroke:#2b3a50}.label{fill:#dce6f3}}</style>
+<rect class="card" x="0.5" y="0.5" width="119" height="103" rx="16"/>
+<rect x="33" y="13" width="54" height="54" rx="12" fill="#f3f6fa"/>
+<g transform="translate(36 16) scale(2)" fill="none" stroke="#16a34a" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="3"/><path d="m7 8 2 2 3-4M14 8h3M7 15l2 2 3-4M14 15h3"/></g>
+<text class="label" x="60" y="86" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" font-weight="600">Zephyr</text>
+</svg>

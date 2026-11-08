@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="104" viewBox="0 0 120 104" role="img" aria-label="pytest-xdist">
+<style>.card{fill:#f8fafc;stroke:#dce4ed}.label{fill:#243449}@media(prefers-color-scheme:dark){.card{fill:#111c2d;stroke:#2b3a50}.label{fill:#dce6f3}}</style>
+<rect class="card" x="0.5" y="0.5" width="119" height="103" rx="16"/>
+<rect x="33" y="13" width="54" height="54" rx="12" fill="#f3f6fa"/>
+<g transform="translate(36 16) scale(2)" fill="none" stroke="#2563eb" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v5M4 14v-4h16v4M12 10v4"/><rect x="1" y="15" width="6" height="6" rx="1"/><rect x="9" y="15" width="6" height="6" rx="1"/><rect x="17" y="15" width="6" height="6" rx="1"/></g>
+<text class="label" x="60" y="86" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" font-weight="600">pytest-xdist</text>
+</svg>
