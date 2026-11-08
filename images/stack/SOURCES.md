@@ -45,7 +45,6 @@
 
 - [jira](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg)
 - [oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)
-- [go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
 - [javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 - [OpenAI: Lobe Icons](https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/openai.svg), лицензия MIT
 - [Locust: знак из официального интерфейса](https://github.com/locustio/locust/blob/master/locust/webui/src/assets/Logo.tsx)

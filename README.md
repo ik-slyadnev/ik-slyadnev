@@ -1,10 +1,10 @@
 # Илья Сляднев
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/header-light.svg">
-  <img src="images/header-light.svg" width="1040" alt="Python и AI: автоматизация тестирования, RAG и оценка моделей">
-</picture>
+<p align="center">
+  <img src="images/ai-workspace.png" width="440" alt="Иллюстрация: разработчик за ноутбуком с символами AI и технологий">
+</p>
+
+## Python & AI
 
 **QA Automation Engineer** · Python · AI Evaluation
 
@@ -16,7 +16,6 @@
 
 <p>
   <img src="images/stack/python.svg" width="116" height="101" alt="Python">
-  <img src="images/stack/go.svg" width="116" height="101" alt="Go">
   <img src="images/stack/javascript.svg" width="116" height="101" alt="JavaScript">
   <img src="images/stack/pytest.svg" width="116" height="101" alt="Pytest">
   <img src="images/stack/pytest-xdist.svg" width="116" height="101" alt="pytest-xdist">
