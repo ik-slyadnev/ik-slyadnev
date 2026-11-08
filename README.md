@@ -6,7 +6,10 @@
 
 <h2 align="center">Python &amp; AI</h2>
 
-<p align="center"><strong>QA Automation Engineer</strong> · Python · AI Evaluation</p>
+<p align="center">
+  <strong>QA Automation Engineer · AI QA Engineer</strong><br>
+  AI-Augmented QA · LLM Evaluation
+</p>
 
 <p align="center">
   <a href="https://t.me/ilia_sliadnev">Telegram</a> · <a href="https://www.linkedin.com/in/ilya-sliadnev/">LinkedIn</a> · <a href="https://gitverse.ru/nogamenolife">GitVerse</a>
