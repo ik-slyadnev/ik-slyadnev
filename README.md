@@ -4,13 +4,13 @@
   <img src="images/ai-workspace.png" width="100%" alt="Иллюстрация: разработчик за ноутбуком с символами AI и технологий">
 </p>
 
-## Python & AI
+<h2 align="center">Python &amp; AI</h2>
 
 **QA Automation Engineer** · Python · AI Evaluation
 
-В этом GitHub собраны мои бенчмарки моделей и отчёты о coding-агентах
-
-[Telegram](https://t.me/ilia_sliadnev) · [LinkedIn](https://www.linkedin.com/in/ilya-sliadnev/) · [GitVerse](https://gitverse.ru/nogamenolife)
+<p align="center">
+  <a href="https://t.me/ilia_sliadnev">Telegram</a> · <a href="https://www.linkedin.com/in/ilya-sliadnev/">LinkedIn</a> · <a href="https://gitverse.ru/nogamenolife">GitVerse</a>
+</p>
 
 ## Языки и автоматизация
 
