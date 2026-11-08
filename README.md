@@ -1,43 +1,65 @@
+# Илья Сляднев
 
-  ## About me:
-I have tested various products.<br>
-I have experience in front-end and back-end testing.<br>
-I am developing in the direction of test automation.<br>
-  
-  ## Contact me: 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/ilya-sliadnev/">
-    <img width="6%" src="images/logo/Linkedin.png" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/Elieeeya">
-    <img width="6%" src="images/logo/Telegram.svg" alt="Telegram Badge"/>
-  </a>
-</div>
-  
-  
-  
- ## Stack:
- <p align="center">
-<img width="5.5%" title="PyCharm" src="images/logo/69f34fcc30c8cd8d44731eb63f403f5e.svg">
-<img width="5.5%" title="Python" src="images/logo/40cdd3a2e5572793ad34d382d04c21f8.svg">
-<img width="5.5%" title="Pytest" src="images/logo/7935342fc7ac6aeea1e80f989e9739fd.svg">
-<img width="5.5%" title="Selene" src="images/logo/e0cabcb69a2df1e6b1086292c020a4a7.png">
-<img width="5.5%" title="Selenium" src="images/logo/f406ca9f5235cc225e7eaa9392a3f95a.png">
-<img width="5.5%" title="Selenoid" src="images/logo/40ba0a9a145340d913192bff0f6c6b77.svg">
-<img width="5.5%" title="Allure Report" src="images/logo/c79ab1cf937ba73a952a0a02a11e9469.svg">
-<img width="5.5%" title="GitHub" src="images/logo/fd6e833503e0e9255ae86ec12fcd6a82.svg">
-<img width="5.5%" title="Jenkins" src="images/logo/2ec41c19823d5239d3b6c540cfe97202.svg">
-<img width="5.5%" title="Docker" src="images/logo/c8dff31ce0854741a2ba5feb45b40a3b.svg">
-<img width="5.5%" title="Allure TEstOps" src="images/logo/32108dd5b6c9c9c3cf4220fe6b2cc7fc.svg">
-<img width="5.5%" title="Requests" src="images/logo/2c222c3222762f8e1c196e40e43282f5.png">
-<img width="5.5%" title="Appium" src="images/logo/d5953e3d38225dd651184b4594889bea.svg">
-<img width="5.5%" title="Browserstack" src="images/logo/318c85205ecd71efb889108bdbae5e7f.svg">
-<img width="5.5%" title="Telegram" src="images/logo/Telegram.svg">
-<img width="5.5%" title="Jira" src="images/logo/9b3a202b7545bfb958527fc1d9583eb5.svg">
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/header-light.svg">
+  <img src="images/header-light.svg" width="1040" alt="Python и AI: автоматизация тестирования, RAG и оценка моделей">
+</picture>
 
-## Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elieeeya)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elieeeya) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elieeeya)
----
+**QA Automation Engineer** · Python · AI Evaluation
+
+В этом GitHub собраны мои бенчмарки моделей, отчёты о coding-агентах и учебные стенды для QA
+
+[Telegram](https://t.me/ilia_sliadnev) · [LinkedIn](https://www.linkedin.com/in/ilya-sliadnev/) · [GitVerse](https://gitverse.ru/nogamenolife)
+
+## Python и автоматизация
+
+<p>
+  <img src="images/stack/python.svg" width="116" height="101" alt="Python">
+  <img src="images/stack/pytest.svg" width="116" height="101" alt="Pytest">
+  <img src="images/stack/playwright.svg" width="116" height="101" alt="Playwright">
+  <img src="images/stack/selenium.svg" width="116" height="101" alt="Selenium">
+  <img src="images/stack/pydantic.svg" width="116" height="101" alt="Pydantic">
+</p>
+
+HTTPX · Requests · asyncio · REST API · GraphQL · gRPC
+
+## AI, RAG и evaluation
+
+<p>
+  <img src="images/stack/langchain.svg" width="116" height="101" alt="LangChain">
+  <img src="images/stack/langgraph.svg" width="116" height="101" alt="LangGraph">
+  <img src="images/stack/qdrant.svg" width="116" height="101" alt="Qdrant">
+  <img src="images/stack/huggingface.svg" width="116" height="101" alt="Hugging Face">
+  <img src="images/stack/ollama.svg" width="116" height="101" alt="Ollama">
+  <img src="images/stack/modelcontextprotocol.svg" width="116" height="101" alt="MCP">
+</p>
+
+DeepEval · Ragas · Langfuse · LLM-as-a-Judge · AI Agents · Tool Calling
+
+## Инфраструктура
+
+<p>
+  <img src="images/stack/docker.svg" width="116" height="101" alt="Docker">
+  <img src="images/stack/kubernetes.svg" width="116" height="101" alt="Kubernetes">
+  <img src="images/stack/jenkins.svg" width="116" height="101" alt="Jenkins">
+  <img src="images/stack/postgresql.svg" width="116" height="101" alt="PostgreSQL">
+  <img src="images/stack/apachekafka.svg" width="116" height="101" alt="Kafka">
+  <img src="images/stack/rabbitmq.svg" width="116" height="101" alt="RabbitMQ">
+</p>
+
+Linux · Bash · GitLab CI · CI/CD · Allure · SQL
+
+## Исследования
+
+| Проект | Что внутри |
+| :--- | :--- |
+| [Ru Embeddings Benchmark](https://github.com/ik-slyadnev/ru-embeddings-benchmark) | Поиск кода по вопросам на русском: 63 конфигурации embedding-моделей и BM25 |
+| [Ru Reranker Benchmark](https://github.com/ik-slyadnev/ru-reranker-benchmark) | Сравнение 23 reranker-моделей для поиска кода |
+| [Aider Polyglot](https://ik-slyadnev.github.io/aider-polyglot-harness-benchmark/) | Интерактивный отчёт: CLI-агенты, качество решений и расход токенов |
+
+## Учебные стенды
+
+[Apache Kafka для QA](https://github.com/ik-slyadnev/kafka_example) · [RabbitMQ для QA](https://github.com/ik-slyadnev/rabbit_mq_example)
+
+Python, Docker Compose и сценарии для практики с брокерами сообщений
